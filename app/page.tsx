@@ -1,4 +1,5 @@
 
 export default function Home() {
-  return <main>Hello next</main>;
+  return <main className="p-6">
+    </main>;
 }
